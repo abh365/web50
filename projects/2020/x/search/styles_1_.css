@@ -12,7 +12,6 @@
     transform: translateX(-130%);
     margin: 72px 0;
     padding:10px 10px;
-    /*border-radius: 5px;*/
     border: none;
     height: 6vh;
 }
@@ -39,14 +38,9 @@
     transform: translateX(-50%);
     margin: 25px 0;
     width: 500px;
-    /*height: 55px;*/
     border-radius: 25px;
-    /*border: 3px whitesmoke solid;*/
     border: 3px grey solid;
     font-size: 20px;
-    /*padding: 5px;*/
-
-    
     height: 7vh;
     padding: 0 20px;
 
@@ -77,23 +71,16 @@ label{
     margin: 2px;
     }
     
-    /*#txt1, #txt2, #txt3, #txt4*/
+    
     #txt1, #txt2, #txt3, #txt4{
-    /*display: inline-block;*/
+    
     display: inline;
     float: left;
-    /*height:20px;*/
-    /*ur code*/
     height:30%;
     width:35%;
     
-   /* width: 660px;
-    height: 7vh;
-*/    /*position:relative;*/
-    /*border: 1px solid grey;*/
     padding:3px;
     margin:2px;  
-    /*border: 1px solid grey;*/
     border:1px solid #d9d9d9;border-top:1px solid #c0c0c0
     }
     
@@ -103,24 +90,6 @@ label{
 
     .searchButton {
 
-      /*  
-        background-color: #476ca8;
-  transition: 0.1s;
-  color: white;
-  font-size: 20px;
-  font-weight: bold;
-  display: block;
-  margin-left: auto;
-  margin-right: 20%;
-  width: 200px;
-  border-radius: 8px;
-  height: 6vh;
-  border: none;
-*/
-        
-
-        /*===ur code below*/
-        
         background: blue;
         color: white;
         font-size: 13px;
@@ -135,22 +104,14 @@ label{
         margin-left:-10%;
         
         width:10%; /*150px;*/
-        /*height: 35px;*/
+     
         height: 5vh;/*auto;6vh;*/
         /*transform: scale(0.5);*/
         text-align: center;
         border-radius: 3.5%;
 
 
-/*
-        display: block;
-         margin -left: auto;
-  margin-right: 20%;
-  width: 200px;
-  border-radius: 8px;
-  height: 6vh;
-  border: none;
-  */      }
+}
       .ebutton{
         color:blue;
         background-color: white;
@@ -207,27 +168,18 @@ label{
 
       .logo {
         text-align: center;
-        /*margin-top: 5%;*/
-        /*height:100px;*/
-
+       
       }
       .logo img {
         width: 26%;
-        /*height:100px;*/
       }
       
 
       .log_2 {
         text-align: left;
-        /*margin-top: 5%;*/
-        /*height:100px;*/
-
+       
       }
       .log_2 img {
         width: 5%;
         /*height:100px;*/
       }
-     /* .nav_logo {
-        margin-right: 80%;
-      }
-      */
