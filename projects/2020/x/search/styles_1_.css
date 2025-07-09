@@ -106,8 +106,8 @@ label{
         text-align: center;
         border-radius: 3.5%;
 
-        display: block;
-        /*display:flex;*/
+        /*display: block;*/
+        display:flex;
         float: left;
         height:30%;
         width: fit-content;
