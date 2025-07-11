@@ -32,8 +32,13 @@
     height: 6vh;
 }
 
+/*.text_input{
+  position: absolute;
+}*/
+
 .text_input input[type="text"] {
-    position: absolute;
+   /* position: absolute;*/
+    position: fixed;
     left: 50%;
     transform: translateX(-50%);
     margin: 25px 0;
