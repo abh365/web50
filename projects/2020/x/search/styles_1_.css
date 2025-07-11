@@ -32,38 +32,19 @@
     height: 6vh;
 }
 
-/*.text_input{
-  position: absolute;
-}*/
 
 .text_input input[type="text"] {
-   /* position: absolute;*/
+  
     position: fixed;
     left: 50%;
     transform: translateX(-50%);
     margin: 25px 0;
-    /*width: 500px;*/
     width: 40vw;
-    /*border-radius: 25px;*/
-    border-radius: 1rem;
-    border: 3px grey solid;
+    border-radius: 25px;
+    border: 2px #eee solid;
     font-size: 20px;
     height: 7vh;
     padding: 0 20px;
-
-}
-.text_input2 input[type="text"] {
-    position: absolute;
-    left: 50%;
-    transform: translateX(-25%);
-    margin: 250px 0;
-    width: 500px;
-    height: 35px;
-    /*border-radius: 25px;*/
-    border-radius: 1rem;
-    border: 3px grey solid;
-    font-size: 20px;
-    padding: 5px;
 
 }
 
